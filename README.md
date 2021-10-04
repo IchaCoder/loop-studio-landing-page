@@ -9,9 +9,8 @@ Users shoud be able to view the optimal layout dependinf on their device's scree
 See all hover states for all interactive elements on the page.
 
 ### Links
-
-- Solutions URL: 
-- Live Site URL: 
+ 
+- Live Site URL: https://loop-stdio.netlify.app/
 
 ## My process
 
